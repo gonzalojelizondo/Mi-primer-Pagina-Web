@@ -1,1 +1,1 @@
-https://github.com/gonzalojelizondo/Mi-primer-Pagina-Web.git
+https://gonzalojelizondo.github.io/Mi-primer-Pagina-Web/
